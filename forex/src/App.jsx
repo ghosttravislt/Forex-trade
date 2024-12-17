@@ -13,7 +13,10 @@ const App = () => {
       <Secure />
       <Industry />
       <Answers />
-      <Footer />
+      <Footer
+        footerTitle="Empowering You with Essential Tools"
+        text="Get the insights, control, and security needed for smart crypto decisions."
+      />
     </>
   );
 };
